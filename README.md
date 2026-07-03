@@ -1,5 +1,5 @@
-# bubble-popper
-A bubble popping game.
+# phaser-bubble-popper
+A bubble popping game made with Phaser.
 
 ## Instructions
 TODO
